@@ -6,3 +6,5 @@
 
 <h3>Project Description</h3>
 <p>My final project is a rudimentary analysis of Cryptocurrencies through R. I want to be able to do all the basic analysis of cryptocurrency, be able to set out time series and plot moving averages and other aspects that can assist my data analysis. Being a beginner at R, I also want to expand my knowledge using the "Shiny web app" features of R.</p>
+
+<p>The above repository contains two main files labelled Crypto Shiny Test and Basic EDA. The Basic EDA is a simple data analysis using crypto of many cryptocurrencies. Further, the Crypto Shiny Test is a Shiny App that allows one to see a time series plot of BTC, ETH and DOT.</p>
